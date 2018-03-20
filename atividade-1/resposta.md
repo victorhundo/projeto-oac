@@ -1,4 +1,4 @@
-# Atividade 1
+﻿# Atividade 1
 
 ## Letra A
 
@@ -14,7 +14,7 @@ Tamanho da instrução - 32 bits
 
 ## Letra D
 
-TODO
+Ao clicar em "CPU" é apresentado uma janela com os valores dos registradores, pc entre outros. Já na "RAM" é apresentado os endereços da memória e a sequencia das instruções a serem executadas pela máquina
 
 ## Letra E
 
